@@ -41,9 +41,7 @@ extras = {
     ],
     "grpc": [
         "grpcio >= 1.33.2, < 2.0dev",
-        "grpcio >= 1.49.1, < 2.0dev; python_version>='3.11'",
         "grpcio-status >= 1.33.2, < 2.0.dev0",
-        "grpcio-status >= 1.49.1, < 2.0.dev0; python_version>='3.11'",
     ],
     "grpcgcp": "grpcio-gcp >= 0.2.2, < 1.0.dev0",
     "grpcio-gcp": "grpcio-gcp >= 0.2.2, < 1.0.dev0",
